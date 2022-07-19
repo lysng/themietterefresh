@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://lysng.github.io/themietterefresh/</loc>
     <lastmod>2022-07-19T18:58:05+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://lysng.github.io/themietterefresh/post/</loc>
     <lastmod>2022-07-19T18:58:05+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/secondpost/</loc>
+    <loc>https://lysng.github.io/themietterefresh/post/secondpost/</loc>
     <lastmod>2022-07-19T18:58:05+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/myfirstpost/</loc>
+    <loc>https://lysng.github.io/themietterefresh/post/myfirstpost/</loc>
     <lastmod>2022-07-19T18:51:12+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://lysng.github.io/themietterefresh/authors/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lysng.github.io/themietterefresh/categories/</loc>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://lysng.github.io/themietterefresh/series/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lysng.github.io/themietterefresh/tags/</loc>
   </url>
 </urlset>
