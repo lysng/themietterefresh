@@ -92,10 +92,22 @@ repository = "themiette"
 disqusShortname = ""
 
 [[menu.main]]
+name = "About"
+weight = -10
+identifier = "about"
+url = "/about/"
+
+[[menu.main]]
 name = "Posts"
 weight = -10
 identifier = "Posts"
 url = "/posts/"
+
+[[menu.main]]
+name = "Resources"
+weight = -10
+identifier = "Resources"
+url = "/resources/"
 
 [blackfriday]
 hrefTargetBlank = true
