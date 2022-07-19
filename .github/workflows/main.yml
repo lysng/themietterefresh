@@ -21,5 +21,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: lysng/themiettex
+          external_repository: lysng/themietterefresh
           publish_dir: ./public
