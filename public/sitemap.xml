@@ -14,7 +14,11 @@
     <loc>http://example.org/post/myfirstpost/</loc>
     <lastmod>2022-07-19T18:51:12+10:00</lastmod>
   </url><url>
+    <loc>http://example.org/authors/</loc>
+  </url><url>
     <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/series/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url>
